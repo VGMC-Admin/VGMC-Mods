@@ -34,9 +34,12 @@ Para agradar a gregos e a troianos, a **Purge** vai ser o grande acontecimento P
 * Entrar!
 
 ## Mods
-No inicio do servidor foram escolhidos mods de acordo com o que os jogadores iniciais queriam jogar. Se não te perguntaram se querias algum mod específico, kek. Todos eles estão disponíveis neste repositório para download (se fizeres `git clone` o Fachada ficaria orgulhoso).
+No inicio do servidor foram escolhidos mods de acordo com o que os jogadores iniciais queriam jogar. Se não te perguntaram se querias algum mod específico, kek. Todos eles estão disponíveis neste repositório para consulta e download (se fizeres `git clone` o Fachada ficaria orgulhoso).
 
-### Punishments
+
+
+
+## Punishments
 
 Caso infrijam alguma regra as penalizações serão aplicadas de acordo com a regra quebrada.
 
