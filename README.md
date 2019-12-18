@@ -1,2 +1,2 @@
-# VGMC-Mods
-Mods for VGMC Minecraft Server
+# VGMC
+VGMC Minecraft Server
