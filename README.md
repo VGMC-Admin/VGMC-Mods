@@ -41,4 +41,14 @@ No inicio do servidor foram escolhidos mods de acordo com o que os jogadores ini
 
 Caso infrijam alguma regra as penalizações serão aplicadas de acordo com a regra quebrada.
 
-[Por adicionar penalizações]
+Os seguintes itens não podem ser craftados sob pena de Ban:
+
+Mod ICBM Classic:
+* Anti-matter: 
+     * Explosives
+     * Missile
+     * Mine-Cart
+* Red-matter 
+     * Explosives
+     * Missile
+     * Mine-Cart
