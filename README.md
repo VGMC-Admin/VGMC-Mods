@@ -30,13 +30,11 @@ Para agradar a gregos e a troianos, a **Purge** vai ser o grande acontecimento P
 ### Instalação para Totós:
 * Abrir o vosso [client bastante original e legítimo](https://tlauncher.org/en/) e instalar a versão `ForgeOptifine 1.12.2`;
 * Corram o programa totalmente XPTO feito por nós que vos vai instalar os _mods_ diretamente do repositório na pasta certa. **Atenção**: os conteúdos da pasta `.minecraft/mods` vão ser repostos na totalidade pelos do repositório. Se querem gravar alguns ~~cheats~~ mods que tenham, façam-no antes de executar o programa.
-* Abrir o jogo e colocar o _Server Address_ "`insertServerAddressHere`".
+* Abrir o jogo e colocar o _Server Address_ "`vgmc.ddns.net`".
 * Entrar!
 
 ## Mods
-No inicio do servidor foram escolhidos mods de acordo com o que os jogadores iniciais queriam jogar. Se não te perguntaram se querias algum mod específico, kek. Todos eles estão disponíveis neste repositório para consulta e download (se fizeres `git clone` o Fachada ficaria orgulhoso).
-
-
+No inicio do servidor foram escolhidos mods de acordo com o que os jogadores iniciais queriam jogar. Se não te perguntaram se querias algum mod específico, kek. Todos eles estão disponíveis neste repositório para consulta e download em caso de erro no Updater (se fizeres `git clone` o Fachada ficaria orgulhoso).
 
 
 ## Punishments
