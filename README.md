@@ -29,7 +29,7 @@ Para agradar a gregos e a troianos, a **Purge** vai ser o grande acontecimento P
 
 ### Instalação para Totós:
 * Abrir o vosso [client bastante original e legítimo](https://tlauncher.org/en/) e instalar a versão `ForgeOptifine 1.12.2`;
-* Corram o programa totalmente XPTO feito por nós que vos vai instalar os _mods_ diretamente do repositório na pasta certa. **Atenção**: os conteúdos da pasta `.minecraft/mods` vão ser repostos na totalidade pelos do repositório. Se querem gravar alguns ~~cheats~~ mods que tenham, façam-no antes de executar o programa.
+* Corram o [programa totalmente XPTO feito por nós](https://drive.google.com/open?id=1q4l5C2eMpJVqA5VF71CoNLbhotZTADVe) que vos vai instalar os _mods_ diretamente do repositório na pasta certa. **Atenção**: os conteúdos da pasta `.minecraft/mods` vão ser repostos na totalidade pelos do repositório. Se querem gravar alguns ~~cheats~~ mods que tenham, façam-no antes de executar o programa.
 * Abrir o jogo e colocar o _Server Address_ "`vgmc.ddns.net`".
 * Entrar!
 
@@ -40,15 +40,3 @@ No inicio do servidor foram escolhidos mods de acordo com o que os jogadores ini
 ## Punishments
 
 Caso infrijam alguma regra as penalizações serão aplicadas de acordo com a regra quebrada.
-
-Os seguintes itens não podem ser craftados sob pena de Ban:
-
-Mod ICBM Classic:
-* Anti-matter: 
-     * Explosives
-     * Missile
-     * Mine-Cart
-* Red-matter 
-     * Explosives
-     * Missile
-     * Mine-Cart
